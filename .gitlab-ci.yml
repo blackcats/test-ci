@@ -1,4 +1,4 @@
 job_1:
     script: 
         - uname -a
-        - bash ./test.sh
+        - ./test.sh
