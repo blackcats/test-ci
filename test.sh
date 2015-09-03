@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "One test :)"
+echo "Testing continous integration (CI) with shellscript ;)"
 
 exit 0
